@@ -7,7 +7,7 @@
 **Thoughts**: Got so caught up in my 'hour' of code that all of a sudden it had been 3 hours and I fell asleep before updating the log or pushing to Github. I've got a lot to learn. Google is my new best friend. 
 
 **Links**
-[JS Drumkit](https://github.com/shellyduggal/01-JS30-Drumkit)
+* [JS Drumkit](https://github.com/shellyduggal/01-JS30-Drumkit)
 
 
 
@@ -17,5 +17,15 @@
 **Thoughts**: Hopefully I'll be very comfortable with Vanilla JS at the end of this! 
 
 **Links** 
-1. [JS Drumkit](https://github.com/shellyduggal/01-JS30-Drumkit)
-2. [CSS/JS Clock](https://github.com/shellyduggal/JS30-02-Clock)
+* [JS Drumkit](https://github.com/shellyduggal/01-JS30-Drumkit)
+* [CSS/JS Clock](https://github.com/shellyduggal/JS30-02-Clock)
+
+
+
+###Day 3: January 05, 2017
+**Progress**: Worked on FCC Weather App, initial setup completed, successfully obtained user location, struggling with making the right API call
+
+**Thoughts**: Found some good resources on geolocation and best practices. Need to work with APIs more frequently to get more comfortable with them. 
+
+**Links** 
+* [FCC Weather App](https://github.com/shellyduggal/fcc_weather)
