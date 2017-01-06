@@ -29,3 +29,13 @@
 
 **Links** 
 * [FCC Weather App](https://github.com/shellyduggal/fcc_weather)
+
+
+
+###Day 4: January 06, 2017
+**Progress**: Continued work on FCC Weather App
+
+**Thoughts**: Successfully found user location and displayed Fahrenheit weather data! Remaining steps: Add button to toggle Celsius, styling, and testing. I struggled with global variables not updating inside nested functions. Found a workaround, but it's messy. This is a topic I'll research further after I get this app working, I hope to return to the project later and clean it up. 
+
+**Links** 
+* [FCC Weather App](https://github.com/shellyduggal/fcc_weather)
