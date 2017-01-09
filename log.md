@@ -39,3 +39,13 @@
 
 **Links** 
 * [FCC Weather App](https://github.com/shellyduggal/fcc_weather)
+
+
+
+###Days 5 & 6: January 07-08, 2017
+**Progress**: Migrated to a new machine
+
+**Thoughts**: Learned a lot about Git and various tools available to developers as I migrated to a new machine, making my development environment the priority of my setup
+
+**Links** 
+* [GitHub Profile](https://github.com/shellyduggal)
