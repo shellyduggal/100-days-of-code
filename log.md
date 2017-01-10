@@ -49,3 +49,13 @@
 
 **Links** 
 * [GitHub Profile](https://github.com/shellyduggal)
+
+
+
+###Day 7: January 09, 2017
+**Progress**: Worked on FCC Weather App - add weather icons, background image, update styling
+
+**Thoughts**: Realized a better way to organize the code, it just came to me out of nowhere and I'm baffled I didn't think of it before! Looking forward to refactoring/reorganizing 
+
+**Links** 
+* [FCC Weather App](https://github.com/shellyduggal/fcc_weather)
