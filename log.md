@@ -59,3 +59,13 @@
 
 **Links** 
 * [FCC Weather App](https://github.com/shellyduggal/fcc_weather)
+
+
+
+###Day 8: January 10, 2017
+**Progress**: Worked on FCC Weather App - add toggle for celsius/fahrenehit, add functions to lookup by zip code, update mobile styling
+
+**Thoughts**: Need to get form validation and onclick to work for looking up by zip code.
+
+**Links** 
+* [FCC Weather App](https://github.com/shellyduggal/fcc_weather)
