@@ -69,3 +69,14 @@
 
 **Links** 
 * [FCC Weather App](https://github.com/shellyduggal/fcc_weather)
+
+
+
+###Day 9: January 11, 2017
+**Progress**: Redesign and update personal portfolio. Add separate contact page with detailed contact form
+
+**Thoughts**: I did a lot of back and forth and repetitive CSS today. I am looking forward to learning how to use CSS tools like SASS to speed this process!
+
+**Links** 
+* [21 Beans Web Creations](http://www.21beans.com)
+* The code for this project is on a private repo. I have not yet updated the live site, this is a link to the previous design
