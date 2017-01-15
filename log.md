@@ -102,3 +102,13 @@
 
 **Links** 
 * [FCC Weather App](https://github.com/shellyduggal/fcc_weather)
+
+
+
+###Day 12: January 14, 2017
+**Progress**: Completed FCC Weather App with additional features
+
+**Thoughts**: Finished! Very glad I added the extra features, it was good practice with a variety of things
+
+**Links** 
+* [FCC Weather App](https://github.com/shellyduggal/fcc_weather)
