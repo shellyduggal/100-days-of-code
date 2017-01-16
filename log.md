@@ -112,3 +112,13 @@
 
 **Links** 
 * [FCC Weather App](https://github.com/shellyduggal/fcc_weather)
+
+
+
+###Day 13: January 15, 2017
+**Progress**: Actually completed FCC Weather App... Found out about SSL geolocation issues when I tried to submit the assignment and decided to switch to a different API for improved efficiency
+
+**Thoughts**: I started out very upset with FCC for not mentioning the SSL conflict with OpenWeather API in the assignment instructions - It's been a known issue for at least 9 months! BUT, I am glad I chose to switch to a different API rather than working around the issue by using Firefox. I found that it's really not difficult to switch from one API to another, I learned a lot about error handling, and I feel that the new version of my app is much more efficient. 
+
+**Links** 
+* [FCC Weather App](https://github.com/shellyduggal/fcc_weather)
