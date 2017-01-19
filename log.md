@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+
+###Day 15: January 18, 2017
+**Progress**: Worked on Brad Schiff's Udemy course for 3-4 hours, took a lot of notes! 
+
+**Thoughts**: Very excited to use Gulp and PostCSS in my next project! Also learned a great way to use an image as a background without making it a background-image, I believe I will be updating some old projects to include this.
+
+
+
+###Day 0: January 17, 2017
+**Progress**: Under the weather, forced to take the day off
+
+
+
 ###Day 14: January 16, 2017
 **Progress**: Started converting a Python text adventure game I made a while back to JS so that it can be played in a browser
 
