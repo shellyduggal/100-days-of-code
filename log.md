@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log
 
+###Day 1: January 30, 2017
+**Progress**: Started Wikipedia Viewer project for Free Code Camp
+
+**Thoughts**: 
+* It's very easy and time-consuming to get caught up in color palettes! 
+* Found an interesting way to make the footer stick to the bottom of the page - will need to test it out to make sure it works in different situations. 
+
+**Links** 
+* [Wikipedia Viewer](https://github.com/shellyduggal/wiki_fcc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+******************************************************************
+
 
 ###Day 15: January 18, 2017
 **Progress**: Worked on Brad Schiff's Udemy course for 3-4 hours, took a lot of notes! 
