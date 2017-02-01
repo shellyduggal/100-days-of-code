@@ -12,6 +12,16 @@
 
 
 
+###Day 2: January 31, 2017
+**Progress**: Design updates for FCC Quote Generator
+
+**Thoughts**: 
+* Broke it - happy I had been updating version control after important steps!
+* Fixed now :)
+
+**Links** 
+* [GIF Grabber](https://github.com/shellyduggal/gif_grabber)
+
 
 
 
