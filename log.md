@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+###Day 4: February 2, 2017
+**Progress**: Worked on building my first from-scratch WP theme 
+
+**Thoughts**: Wordpress is a very interesting platform with so many possibilities. I'm glad I learned child themes and custom page templates before jumping into full theme development
+
+**Links** 
+* This project is being managed on a private repo
+
+
+
+###Day 3: February 1, 2017
+**Progress**: Worked on algorithms for Project Euler problems in JS
+
+**Thoughts**: I'd like to incorporate more of these coding challenges in my 100 days of code, rather than limiting myself to my personal projects
+
+**Links** 
+* [Coding Challenges](https://github.com/shellyduggal/euler)
+
+
+
+###Day 2: January 31, 2017
+**Progress**: Design updates for FCC Quote Generator
+
+**Thoughts**: 
+* Broke it - happy I had been updating version control after important steps!
+* Fixed now :)
+
+**Links** 
+* [GIF Grabber](https://github.com/shellyduggal/gif_grabber_fcc)
+
+
+
 ###Day 1: January 30, 2017
 **Progress**: Started Wikipedia Viewer project for Free Code Camp
 
@@ -12,15 +44,7 @@
 
 
 
-###Day 2: January 31, 2017
-**Progress**: Design updates for FCC Quote Generator
 
-**Thoughts**: 
-* Broke it - happy I had been updating version control after important steps!
-* Fixed now :)
-
-**Links** 
-* [GIF Grabber](https://github.com/shellyduggal/gif_grabber)
 
 
 
