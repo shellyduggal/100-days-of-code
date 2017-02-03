@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+###Day 5: February 3, 2017
+**Progress**: Installed and started Exercism challenges in JavaScript
+
+**Links** 
+* [Coding Challenges](https://github.com/shellyduggal/challenges)
+
+
+
 ###Day 4: February 2, 2017
 **Progress**: Worked on building my first from-scratch WP theme 
 
@@ -16,7 +24,7 @@
 **Thoughts**: I'd like to incorporate more of these coding challenges in my 100 days of code, rather than limiting myself to my personal projects
 
 **Links** 
-* [Coding Challenges](https://github.com/shellyduggal/euler)
+* [Coding Challenges](https://github.com/shellyduggal/challenges)
 
 
 
