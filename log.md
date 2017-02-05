@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+###Day 6: February 4, 2017
+**Progress**: Finish updates for FCC Quote Generator
+
+**Links** 
+* [GIF Grabber](https://github.com/shellyduggal/gif_grabber_fcc)
+
+
+
 ###Day 5: February 3, 2017
 **Progress**: Installed and started Exercism challenges in JavaScript
 
