@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+###Day 7: February 5, 2017
+**Progress**: Work on Wikipedia Viewer for FCC
+
+**Thoughts**: I decided to approach this project differently than I've approached other FCC projects: I'm doing the designing and front end first, leaving the API work and backend for later. I worry that I'm wasting time on design because I feel like I don't have a lot to show because nothing is functional yet - but we'll see how I feel about the process once I'm finished with everything.
+
+**Links** 
+* [Wikipedia Viewer](https://github.com/shellyduggal/wiki_fcc)
+
+
+
 ###Day 6: February 4, 2017
 **Progress**: Finish updates for FCC Quote Generator
 
