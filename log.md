@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+###Day 10: February 8, 2017
+**Progress**: Continue work on Wikipedia Viewer for FCC
+
+**Thoughts**: The Wikipedia API documentation is less thorough than I would expect, a lot of experimentation is needed to get the right data returned. It's probably a good experience, but I'm getting tired of going in circles with the docs!
+
+**Links** 
+* [Wikipedia Viewer](https://github.com/shellyduggal/wiki_fcc)
+
+
+
 ###Day 9: February 7, 2017
 **Progress**: Work on Wikipedia Viewer for FCC
 
