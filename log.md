@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+###Day 9: February 7, 2017
+**Progress**: Work on Wikipedia Viewer for FCC
+
+**Thoughts**: Google is my best friend
+
+**Links** 
+* [Wikipedia Viewer](https://github.com/shellyduggal/wiki_fcc)
+
+
+
+###Day 8: February 6, 2017
+
+Sick Day - Worked on soft skills
+
+
+
 ###Day 7: February 5, 2017
 **Progress**: Work on Wikipedia Viewer for FCC
 
