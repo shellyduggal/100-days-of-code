@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+###Day 12: February 10, 2017
+**Progress**: Updates to portfolio content
+
+**Thoughts**: Sometimes it's important to focus on the routine stuff
+
+**Links** 
+* [Development Portfolio](http://www.21beans.com)
+
+
+
+###Day 11: February 9, 2017
+**Progress**: Debugging course projects that suddenly stopped working
+
+**Thoughts**: I have no idea what happened to them, but they are working again... Aman said "Welcome to development". I definitely learned the importance of tracking everything with Git, even projects done through courses!
+
+
+
 ###Day 10: February 8, 2017
 **Progress**: Continue work on Wikipedia Viewer for FCC
 
